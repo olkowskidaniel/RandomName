@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Random Name</string>
+    <string name="locationMainTextView_text">Current location: - </string>
 </resources>
