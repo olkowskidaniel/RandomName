@@ -10,6 +10,7 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping pattern="notesDB" type="DBN-SQL" />
       <mapping ext="vw" type="DBN-SQL" />
     </extensionMap>
   </component>
